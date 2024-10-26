@@ -33,4 +33,6 @@ Check more details when playing the game
 
 ![Screenshot 2024-10-25 202953](https://github.com/user-attachments/assets/c1c5b738-cfb3-4dd8-9ee9-045ded41c098)
 
+My enchanted book bolting isn't on the tab but what it does is that it strikes mobs and players with lightning.
+
 ## Enjoy!
