@@ -1,0 +1,16 @@
+{
+  "block.customweapons.block_of_silver": "Block of Silver",
+  "block.customweapons.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.customweapons.silver_ore": "Silver Ore",
+  "enchantment.customweapons.bolting": "Bolting",
+  "item.customweapons.medieval_boots": "Medieval Boots",
+  "item.customweapons.medieval_leggings": "Medieval Leggings",
+  "item.customweapons.scythe": "Scythe",
+  "item.customweapons.sickle": "Sickle",
+  "item.customweapons.sickles": "Sickles",
+  "item.customweapons.silver": "Silver",
+  "item.customweapons.spartan_chestplate": "Spartan Chestplate",
+  "item.customweapons.spartan_helm": "Spartan Helm",
+  "item.customweapons.spear": "Spear",
+  "itemGroup.customweapons.customweapons_group": "Custom Weapons"
+}

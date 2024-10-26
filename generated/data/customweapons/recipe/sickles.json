@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "customweapons:sickle"
+    },
+    {
+      "item": "customweapons:sickle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "customweapons:sickles"
+  }
+}
