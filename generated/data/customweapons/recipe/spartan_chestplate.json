@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "S": "customweapons:silver"
+  },
+  "pattern": [
+    "S S",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "customweapons:spartan_chestplate"
+  }
+}
