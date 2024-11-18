@@ -1,6 +1,6 @@
 <div align="center"><p>
 
-A Mod that adds new weapons armor and enchantments to your game
+A Fabric Mod that adds new weapons armor and enchantments to your game
 Check more details when playing the game
 
 ## Description
