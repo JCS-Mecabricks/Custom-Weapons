@@ -1,0 +1,69 @@
+[14:39:58] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[14:39:58] [main/INFO] (FabricLoader) Loading 43 mods:
+	- customweapons 1.0.0
+	- fabric-api 0.108.0+1.21.3
+	- fabric-api-base 0.4.49+fd37071f40
+	- fabric-api-lookup-api-v1 1.6.80+fd37071f40
+	- fabric-biome-api-v1 14.0.6+fd37071f40
+	- fabric-block-api-v1 1.0.28+fd37071f40
+	- fabric-block-view-api-v2 1.0.16+fd37071f40
+	- fabric-command-api-v1 1.2.57+f71b366f40
+	- fabric-command-api-v2 2.2.36+fd37071f40
+	- fabric-commands-v0 0.2.74+df3654b340
+	- fabric-content-registries-v0 9.1.7+fd37071f40
+	- fabric-convention-tags-v1 2.1.2+7f945d5b40
+	- fabric-convention-tags-v2 2.9.2+84ebbb0e40
+	- fabric-crash-report-info-v1 0.3.3+fd37071f40
+	- fabric-data-attachment-api-v1 1.3.0+e9d2cfc840
+	- fabric-data-generation-api-v1 21.0.16+fd37071f40
+	- fabric-dimensions-v1 4.0.7+fd37071f40
+	- fabric-entity-events-v1 2.0.7+825023f840
+	- fabric-events-interaction-v0 2.0.11+c2c3ac4740
+	- fabric-game-rule-api-v1 1.0.59+fd37071f40
+	- fabric-gametest-api-v1 2.0.14+fd37071f40
+	- fabric-item-api-v1 11.1.6+fd37071f40
+	- fabric-item-group-api-v1 4.1.16+fd37071f40
+	- fabric-lifecycle-events-v1 2.5.0+6da5ef6940
+	- fabric-loot-api-v2 3.0.25+3f89f5a540
+	- fabric-loot-api-v3 1.0.13+fd37071f40
+	- fabric-message-api-v1 6.0.20+fd37071f40
+	- fabric-networking-api-v1 4.3.4+fd37071f40
+	- fabric-object-builder-api-v1 17.0.8+fd37071f40
+	- fabric-particles-v1 4.0.9+fd37071f40
+	- fabric-recipe-api-v1 7.0.3+fd37071f40
+	- fabric-registry-sync-v0 5.2.1+fd37071f40
+	- fabric-rendering-data-attachment-v1 0.3.54+73761d2e40
+	- fabric-rendering-fluids-v1 3.1.14+fd37071f40
+	- fabric-resource-conditions-api-v1 5.0.8+fd37071f40
+	- fabric-resource-loader-v0 3.0.6+fd37071f40
+	- fabric-screen-handler-api-v1 1.3.99+fd37071f40
+	- fabric-transfer-api-v1 5.4.2+fd37071f40
+	- fabric-transitive-access-wideners-v1 6.1.8+fd37071f40
+	- fabricloader 0.16.9
+	- java 22
+	- minecraft 1.21.3
+	- mixinextras 0.4.1
+[14:39:58] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Maest/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:39:59] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[14:39:59] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[14:39:59] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:40:10] [main/INFO] (customweapons) Loading...
+[14:40:10] [main/INFO] (FabricDataGenHelper) Running data generator for customweapons
+[14:40:11] [main/INFO] (Minecraft) Starting provider: Custom Weapons/Model Definitions
+[14:40:11] [main/INFO] (Minecraft) Custom Weapons/Model Definitions finished after 117 ms
+[14:40:11] [main/INFO] (Minecraft) Starting provider: Custom Weapons/Language (en_us)
+[14:40:11] [main/INFO] (Minecraft) Custom Weapons/Language (en_us) finished after 5 ms
+[14:40:11] [main/INFO] (Minecraft) Starting provider: Custom Weapons/Block Loot Tables
+[14:40:12] [main/INFO] (Minecraft) Custom Weapons/Block Loot Tables finished after 41 ms
+[14:40:12] [main/INFO] (Minecraft) Starting provider: Custom Weapons/Tags for minecraft:block
+[14:40:12] [main/INFO] (Minecraft) Custom Weapons/Tags for minecraft:block finished after 26 ms
+[14:40:12] [main/INFO] (Minecraft) Starting provider: Custom Weapons/Tags for minecraft:item
+[14:40:12] [main/INFO] (Minecraft) Custom Weapons/Tags for minecraft:item finished after 6 ms
+[14:40:12] [main/INFO] (Minecraft) Starting provider: Custom Weapons/
+[14:40:12] [main/INFO] (Minecraft) Custom Weapons/ finished after 15 ms
+[14:40:12] [main/INFO] (Minecraft) Starting provider: Custom Weapons/Custom Weapons Recipes
+[14:40:12] [main/INFO] (Minecraft) Custom Weapons/Custom Weapons Recipes finished after 127 ms
+[14:40:12] [main/INFO] (Minecraft) Starting provider: Custom Weapons/Enchantment Generator
+[14:40:12] [main/INFO] (Minecraft) Custom Weapons/Enchantment Generator finished after 17 ms
+[14:40:12] [main/INFO] (Minecraft) All providers took: 362 ms
+[14:40:12] [main/INFO] (Minecraft) Caching: total files: 63, old count: 0, new count: 64, removed stale: 0, written: 63
