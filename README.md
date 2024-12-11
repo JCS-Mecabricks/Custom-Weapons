@@ -35,4 +35,7 @@ Check more details when playing the game
 
 My enchanted book bolting isn't on the tab but what it does is that it strikes mobs and players with lightning.
 
+Lastly, I will mostly update my mods in modrinth: https://modrinth.com/user/JCS-Mecabricks
+If you have any discussions, ask them in my discussions tab: https://github.com/JCS-Mecabricks/JCS-Mecabricks/discussions
+
 ## Enjoy!
