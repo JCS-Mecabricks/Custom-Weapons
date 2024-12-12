@@ -1,7 +1,7 @@
 {
   "values": [
-    "customweapons:deepslate_silver_ore",
-    "customweapons:block_of_silver",
-    "customweapons:silver_ore"
+    "custom-weapons:deepslate_silver_ore",
+    "custom-weapons:block_of_silver",
+    "custom-weapons:silver_ore"
   ]
 }

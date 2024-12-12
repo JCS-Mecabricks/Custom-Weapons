@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "github.jcsmecabricks.customweapons.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin",
+		"AbstractClientPlayerEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
